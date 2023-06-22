@@ -7,4 +7,4 @@ I used a classic genetic alogrithm with set number of generations and genes. The
 
 The third assignment is a clustering algorithm using K-means clustering with centroids and medoids.
 ---
-![](docs/fiit.png)
+![](fiit.png)
